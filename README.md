@@ -4,7 +4,7 @@
 
 * Irakasgaia: 27380 Zerbitzu Telematiko Aurreratuak
 * Ikasturtea: 2019/2020
-* Deialdia:Ezohikoa
+* Deialdia: Ezohikoa
 * Data: 2020/07/01
 * Ikaslea: **Idatzi hemen zure izen-abizenak**
 * NA: **Idatzi hemen zure NA letra eta guzti**
