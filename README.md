@@ -17,5 +17,5 @@
 4. Deskargatu `ZtaAzterketa.sql` fitxategia eGelatik eta exekutatu zure **datu-basea** sortzeko.
 5. Eclipse-n `ZtaAzterketa` izeneko MySQL konexio bat konfiguratu sortu berri duzun datu-basearekin lan egiteko.
 6. Eclipse-n **GIT agindurik erabili gabe** egin lan.
-7. **Azterketa entregatu baino lehen**: Azterketaren datu-basean aldaketarik egin baduzu, **zure datu-basearen egitura eta edukiak** dituen `dump.sql` fitxategi bat sortu (MySQL Workbench > Administration > Data Export > Export to Self-Contained File) eta `GitMonitor (LDAP)` programak adierazitako lanerako karpetan gorde.
+7. **Azterketa entregatu baino lehen**: Azterketaren datu-basean aldaketarik egin baduzu, **zure datu-basearen egitura eta edukiak** dituen `dump.sql` fitxategi bat sortu (`MySQL Workbench > Administration > Data Export > Export to Self-Contained File`) eta `GitMonitor (LDAP)` programak adierazitako lanerako karpetan gorde.
 8. **Azterketa entregatzeko**: `GitMonitor (LDAP)` programako `Amaitu eta bidali` botoia sakatu eta itxaron, azterketa ondo gorde dela adierazten zaizun arte. Pantaila-argazki bat artera eta web-posta bidez irakasleari bidali.
