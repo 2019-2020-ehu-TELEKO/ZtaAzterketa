@@ -11,7 +11,7 @@
 
 ## Lanerako argibideak
 
-1. Abiatu **GitMonitor (LDAP)** programaren azken bertsioa (https://www.dropbox.com/s/6lt3sfbcze4owna/GitMonitorLdapEus.jar?dl=1) irakasleak adierazitako identifikatzailea eta zure datuak sartuta.
+1. Abiatu **GitMonitor (LDAP)** programaren azken bertsioa (https://www.dropbox.com/s/17rk30oywm5043b/GitMonitorLdapEus.jar?dl=1) irakasleak adierazitako identifikatzailea eta zure datuak sartuta.
 2. Bete fitxategi honen hasieran eskatzen zaizkizun datuak.
 3. **Eclipse** abiatu eta workspace-an`ZtaAzterketa` proiekturik baduzu, ezabatu. Ondoren, `GitMonitor (LDAP)` programak adierazitako "lanerako karpetan" dagoen `ZtaAzterketa` proiektua **importatu** (*Import existing projects into workspace*).
 4. Deskargatu `ZtaAzterketa.sql` fitxategia eGelatik eta exekutatu zure **datu-basea** sortzeko.
